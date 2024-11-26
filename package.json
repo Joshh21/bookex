@@ -1,3 +1,7 @@
-"scripts": {
-    "start": "python app.py"
+{
+    "name": "my-flask-app",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "python app.py"
+    }
 }
